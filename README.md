@@ -29,7 +29,7 @@ To use the Python ZIP File Brute Force Script , follow these steps:
 5. Run the application:
 
     ```bash
-    python pdf.py
+    python zip.py
     ```
 ## Collaboration
 
